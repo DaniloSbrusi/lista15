@@ -1,5 +1,5 @@
 let nomeCanal = 'unoescoficial';
-let chave = 'AIzaSyAlwydt0JH_1SeXD85FtAA3xSPc4pjaac4';
+let chave = 'KEY';
 
 $(document).ready(function () {
     Fancybox.bind("[data-fancybox-plyr]", {});
